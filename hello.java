@@ -4,4 +4,4 @@ class hello-dev2
 	{
 		System.out.println("Hello from dev2");
 	}
-}##EOF
+}
